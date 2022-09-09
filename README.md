@@ -43,7 +43,7 @@ List of my currently used Switch Homebrew apps, customization and cfw
 ## Customization
 
 * Boot Logo thread: https://gbatemp.net/threads/custom-boot-logo-for-switch.569031/
-* BootSoundNX: https://gbatemp.net/threads/bootsoundnx-boot-sound-on-nintendo-switch.547488/ | https://github.com/TheModdersDen/BootSoundNX
+* BootSoundNX: https://github.com/TheModdersDen/BootSoundNX/releases
 * themezerNX: https://github.com/suchmememanyskill/themezer-nx
 * NxThemeInstaller: https://github.com/exelix11/SwitchThemeInjector/releases
 
