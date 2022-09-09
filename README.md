@@ -21,6 +21,7 @@ List of my currently used Switch Homebrew apps, customization and cfw
 * sys-dvr: https://github.com/exelix11/SysDVR/releases
 * Mission Control: https://github.com/ndeadly/MissionControl/releases
 * TriPlayer: https://github.com/tallbl0nde/TriPlayer/releases
+* NX-Activity-Log: https://github.com/tallbl0nde/NX-Activity-Log/releases
 
 ## Overlays
 
@@ -33,18 +34,19 @@ List of my currently used Switch Homebrew apps, customization and cfw
 ## Custom Firmware
 
 * Atmosphere: https://github.com/Atmosphere-NX/Atmosphere/releases
+* ArgonNX: https://github.com/Storm21CH/ArgonNX-SE/releases
 * Hekate: https://github.com/CTCaer/hekate/releases
 * Switchroot: https://switchroot.org/
 * Android 11: https://github.com/s3tupw1zard/LineageOS-Switch-T210-UNOFFICIAL
 * Lakka: http://www.lakka.tv/get/linux/switch/
-* ArgonNX: https://github.com/Storm21CH/ArgonNX-SE/releases
-
 
 ## Customization
 
-* Boot Logo thread: https://gbatemp.net/threads/custom-boot-logo-for-switch.569031/
+* Custom Atmosphere BootLogo: https://gbatemp.net/threads/custom-boot-logo-for-switch.569031/
 * BootSoundNX: https://github.com/TheModdersDen/BootSoundNX/releases
 * themezerNX: https://github.com/suchmememanyskill/themezer-nx
 * NxThemeInstaller: https://github.com/exelix11/SwitchThemeInjector/releases
+* sys-tweak: https://gbatemp.net/threads/custom-game-icons-tutorial-and-sharing-hub.574675/
+* IconGrabber: https://github.com/Slluxx/IconGrabber
 
 
