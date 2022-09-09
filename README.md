@@ -4,20 +4,20 @@ List of my currently used Switch Homebrew apps, customization and cfw
 
 ## Homebrew Apps
 
-* Amiigo: https://github.com/CompSciOrBust/Amiigo/ 
+* Amiigo: https://github.com/CompSciOrBust/Amiigo/releases
 * Goldleaf: https://github.com/XorTroll/Goldleaf/releases
 * SimpleModManager: https://github.com/nadrino/SimpleModManager/releases
 * SkyNX: https://github.com/DevL0rd/SkyNX/releases
 * Moonlight: https://github.com/XITRIX/Moonlight-Switch/releases
 * Edizon SE: https://github.com/tomvita/EdiZon-SE/releases 
-* aio-switch-updater: https://github.com/HamletDuFromage/AIO-switch-updater
+* aio-switch-updater: https://github.com/HamletDuFromage/AIO-switch-updater/releases
 * sys-clk-manager: https://github.com/retronx-team/sys-clk/releases
 * tinwoo: https://github.com/mrdude2478/TinWoo/releases
 * emuiibo: https://github.com/XorTroll/emuiibo/releases
 * ReverseNX-RT: https://github.com/masagrator/ReverseNX-RT/releases
-* SaltyNX: https://github.com/masagrator/SaltyNX/releases/tag/0.4.0a-hotfix
+* SaltyNX: https://github.com/masagrator/SaltyNX/releases
 * Tinfoil: https://tinfoil.io/Download
-* SwitchPresence: https://github.com/SunResearchInstitute/SwitchPresence-Rewritten
+* SwitchPresence: https://github.com/SunResearchInstitute/SwitchPresence-Rewritten/releases
 * sys-dvr: https://github.com/exelix11/SysDVR/releases
 * Mission Control: https://github.com/ndeadly/MissionControl/releases
 * TriPlayer: https://github.com/tallbl0nde/TriPlayer/releases
@@ -29,8 +29,7 @@ List of my currently used Switch Homebrew apps, customization and cfw
 * teslamenu: https://github.com/WerWolv/Tesla-Menu/releases
 * fastCFWswitch: https://github.com/Hartie95/fastCFWswitch/releases
 * ovlSysmodules: https://github.com/WerWolv/ovl-sysmodules/releases
-* Edizon: https://github.com/proferabg/EdiZon-Overlay/releases/tag/v1.0.2c
-
+* Edizon: https://github.com/proferabg/EdiZon-Overlay/releases
 ## Custom Firmware
 
 * Atmosphere: https://github.com/Atmosphere-NX/Atmosphere/releases
@@ -45,7 +44,7 @@ List of my currently used Switch Homebrew apps, customization and cfw
 
 * Custom Atmosphere BootLogo: https://gbatemp.net/threads/custom-boot-logo-for-switch.569031/
 * BootSoundNX: https://github.com/TheModdersDen/BootSoundNX/releases
-* themezerNX: https://github.com/suchmememanyskill/themezer-nx
+* themezerNX: https://github.com/suchmememanyskill/themezer-nx/releases
 * NxThemeInstaller: https://github.com/exelix11/SwitchThemeInjector/releases
 * sys-tweak: https://gbatemp.net/threads/custom-game-icons-tutorial-and-sharing-hub.574675/
 * IconGrabber: https://github.com/Slluxx/IconGrabber
