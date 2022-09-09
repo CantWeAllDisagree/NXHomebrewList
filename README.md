@@ -36,6 +36,7 @@ List of my currently used Switch Homebrew apps, customization and cfw
 * Atmosphere: https://github.com/Atmosphere-NX/Atmosphere/releases
 * ArgonNX: https://github.com/Storm21CH/ArgonNX-SE/releases
 * Hekate: https://github.com/CTCaer/hekate/releases
+* HbMenu: https://github.com/switchbrew/nx-hbmenu/releases
 * Switchroot: https://switchroot.org/
 * Android 11: https://github.com/s3tupw1zard/LineageOS-Switch-T210-UNOFFICIAL
 * Lakka: http://www.lakka.tv/get/linux/switch/
