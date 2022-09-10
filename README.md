@@ -25,7 +25,7 @@ List of my currently used Switch Homebrew apps, customization and cfw
 
 ## Overlays
 
-* nx-ovlloader: https://github.com/WerWolv/nx-ovlloader
+* nx-ovlloader: https://github.com/WerWolv/nx-ovlloader/releases
 * teslamenu: https://github.com/WerWolv/Tesla-Menu/releases
 * fastCFWswitch: https://github.com/Hartie95/fastCFWswitch/releases
 * ovlSysmodules: https://github.com/WerWolv/ovl-sysmodules/releases
