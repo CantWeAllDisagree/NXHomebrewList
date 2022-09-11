@@ -49,4 +49,9 @@ List of my currently used Switch Homebrew apps, customization and cfw
 * sys-tweak: https://gbatemp.net/threads/custom-game-icons-tutorial-and-sharing-hub.574675/ | https://github.com/p-sam/switch-sys-tweak
 * IconGrabber: https://github.com/Slluxx/IconGrabber
 
+## Modding
+
+ARCropolis: https://github.com/Raytwo/ARCropolis/releases
+Skyline: https://github.com/skyline-dev/skyline/releases
+
 
