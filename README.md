@@ -53,5 +53,8 @@ List of my currently used Switch Homebrew apps, customization and cfw
 
 ARCropolis: https://github.com/Raytwo/ARCropolis/releases
 Skyline: https://github.com/skyline-dev/skyline/releases
+Smash HDR: https://github.com/HDR-Development/HDR-Releases/releases
+Quasar Mod Manager PC(Smash): https://github.com/Mowjoh/Quasar/releases
+
 
 
