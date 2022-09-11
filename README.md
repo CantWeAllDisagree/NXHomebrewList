@@ -22,6 +22,7 @@ List of my currently used Switch Homebrew apps, customization and cfw
 * Mission Control: https://github.com/ndeadly/MissionControl/releases
 * TriPlayer: https://github.com/tallbl0nde/TriPlayer/releases
 * NX-Activity-Log: https://github.com/tallbl0nde/NX-Activity-Log/releases
+* JKSV: https://github.com/J-D-K/JKSV/releases
 
 ## Overlays
 
