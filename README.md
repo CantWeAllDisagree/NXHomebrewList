@@ -6,7 +6,6 @@ List of my currently used Switch Homebrew apps, customization and cfw
 
 * Amiigo: https://github.com/CompSciOrBust/Amiigo/releases
 * Goldleaf: https://github.com/XorTroll/Goldleaf/releases
-* SimpleModManager: https://github.com/nadrino/SimpleModManager/releases
 * SkyNX: https://github.com/DevL0rd/SkyNX/releases
 * Moonlight: https://github.com/XITRIX/Moonlight-Switch/releases
 * Edizon SE: https://github.com/tomvita/EdiZon-SE/releases 
@@ -18,7 +17,6 @@ List of my currently used Switch Homebrew apps, customization and cfw
 * SaltyNX: https://github.com/masagrator/SaltyNX/releases
 * Tinfoil: https://tinfoil.io/Download
 * SwitchPresence: https://github.com/SunResearchInstitute/SwitchPresence-Rewritten/releases
-* sys-dvr: https://github.com/exelix11/SysDVR/releases
 * Mission Control: https://github.com/ndeadly/MissionControl/releases
 * TriPlayer: https://github.com/tallbl0nde/TriPlayer/releases
 * NX-Activity-Log: https://github.com/tallbl0nde/NX-Activity-Log/releases
