@@ -2,9 +2,9 @@
 List of my currently used Switch Homebrew apps, customization and cfw
 
 # Tools
+
 * LCD Assistant: https://en.radzio.dxp.pl/bitmap_converter/
 * Tegra RCM: https://github.com/eliboa/TegraRcmGUI
-
 
 
 ## Homebrew Apps
@@ -26,6 +26,8 @@ List of my currently used Switch Homebrew apps, customization and cfw
 * TriPlayer: https://github.com/tallbl0nde/TriPlayer/releases
 * NX-Activity-Log: https://github.com/tallbl0nde/NX-Activity-Log/releases
 * JKSV: https://github.com/J-D-K/JKSV/releases
+* NX-FPS: https://github.com/masagrator/NX-FPS/releases
+
 
 ## Overlays
 
@@ -34,6 +36,10 @@ List of my currently used Switch Homebrew apps, customization and cfw
 * fastCFWswitch: https://github.com/Hartie95/fastCFWswitch/releases
 * ovlSysmodules: https://github.com/WerWolv/ovl-sysmodules/releases
 * Edizon: https://github.com/proferabg/EdiZon-Overlay/releases
+* QuickNTP: https://github.com/nedex/QuickNTP/releases
+* Status Monitor Overlay: https://github.com/masagrator/Status-Monitor-Overlay/releases
+
+
 ## Custom Firmware
 
 * Atmosphere: https://github.com/Atmosphere-NX/Atmosphere/releases
@@ -43,6 +49,7 @@ List of my currently used Switch Homebrew apps, customization and cfw
 * Switchroot: https://switchroot.org/
 * Android 11: https://github.com/s3tupw1zard/LineageOS-Switch-T210-UNOFFICIAL
 * Lakka: http://www.lakka.tv/get/linux/switch/
+
 
 ## Customization
 
