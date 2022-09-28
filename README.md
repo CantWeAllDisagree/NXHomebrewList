@@ -13,7 +13,8 @@ List of my currently used Switch Homebrew apps, customization and cfw
 * Goldleaf: https://github.com/XorTroll/Goldleaf/releases
 * SkyNX: https://github.com/DevL0rd/SkyNX/releases
 * Moonlight: https://github.com/XITRIX/Moonlight-Switch/releases
-* Edizon SE: https://github.com/tomvita/EdiZon-SE/releases 
+* Edizon SE: https://github.com/tomvita/EdiZon-SE/releases
+* Breeze: https://github.com/tomvita/Breeze-Beta
 * aio-switch-updater: https://github.com/HamletDuFromage/AIO-switch-updater/releases
 * sys-clk-manager: https://github.com/retronx-team/sys-clk/releases
 * tinwoo: https://github.com/mrdude2478/TinWoo/releases
