@@ -28,6 +28,7 @@ List of my currently used Switch Homebrew apps, customization and cfw
 * NX-Activity-Log: https://github.com/tallbl0nde/NX-Activity-Log/releases
 * JKSV: https://github.com/J-D-K/JKSV/releases
 * NX-FPS: https://github.com/masagrator/NX-FPS/releases
+* FTPDpro: https://github.com/mtheall/ftpd/releases
 
 
 ## Overlays
