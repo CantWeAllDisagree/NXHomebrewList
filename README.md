@@ -46,6 +46,7 @@ List of my currently used Switch Homebrew apps, customization and cfw
 ## Custom Firmware
 
 * Atmosphere: https://github.com/Atmosphere-NX/Atmosphere/releases
+* SigPatches: https://sigmapatches.coomer.party/
 * ArgonNX: https://github.com/Storm21CH/ArgonNX-SE/releases
 * Hekate: https://github.com/CTCaer/hekate/releases
 * HbMenu: https://github.com/switchbrew/nx-hbmenu/releases
