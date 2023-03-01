@@ -9,6 +9,7 @@ List of my currently used Switch Homebrew apps, customization and cfw
 
 ## Homebrew Apps
 
+* Switch OC Suite: https://github.com/KazushiMe/Switch-OC-Suite/releases
 * Amiigo: https://github.com/CompSciOrBust/Amiigo/releases
 * Goldleaf: https://github.com/XorTroll/Goldleaf/releases
 * SkyNX: https://github.com/DevL0rd/SkyNX/releases
